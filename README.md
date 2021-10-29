@@ -1,5 +1,5 @@
 ### Hi I'm qaiu👋
-[💒 Home page](https://qaiu.top)  
+[💒 Home page](https://qaiu.top?_blank)  
 [💌 Blog](https://blog.qaiu.top)  
 [🚀 zhihu](https://www.zhihu.com/people/QAIU)  
 [📺 bilibili](https://space.bilibili.com/16908280)  
