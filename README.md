@@ -1,7 +1,7 @@
 ### Hi I'm qaiu👋
 [Home page](https://qaiu.top)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Vanessa219&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=qaiu&show_icons=true)
 
 
 <!--
