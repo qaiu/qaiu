@@ -5,8 +5,6 @@
 [📺 bilibili](https://space.bilibili.com/16908280)  
 [🎀 weibo](https://weibo.com/u/2719056577)  
 
-<a href="http://write.blog.csdn.net/postlist" target="_blank">跳到自己博客列表</a>
-
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=qaiu&show_icons=true&theme=dracula)
 
 
