@@ -8,7 +8,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=qaiu&show_icons=true&theme=dracula)
 
 <p align="center">
-	<img src="https://profile-counter.glitch.me/zengming00/count.svg" />
+	<img src="https://profile-counter.glitch.me/qaiu/count.svg" />
 </p>
 
 <!--
