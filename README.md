@@ -7,6 +7,9 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=qaiu&show_icons=true&theme=dracula)
 
+<p align="center">
+	<img src="https://profile-counter.glitch.me/zengming00/count.svg" />
+</p>
 
 <!--
 **qaiu/qaiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
