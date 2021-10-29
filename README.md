@@ -1,7 +1,11 @@
 ### Hi I'm qaiu👋
-[Home page](https://qaiu.top)
+[💒 Home page](https://qaiu.top)  
+[💌 Blog](https://blog.qaiu.top)  
+[🚀 zhihu](https://www.zhihu.com/people/QAIU)  
+[📺 bilibili](https://space.bilibili.com/16908280)  
+[🎀 weibo](https://weibo.com/u/2719056577)  
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=qaiu&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=qaiu&show_icons=true&theme=dark)
 
 
 <!--
