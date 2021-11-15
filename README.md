@@ -6,7 +6,7 @@
 [🎀 weibo](https://weibo.com/u/2719056577)  
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=qaiu&show_icons=true&theme=dracula)
-![QAIU's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qaiu&layout=compact&hide_border=true&langs_count=10)
+![QAIU's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qaiu&layout=compact&hide_border=true&langs_count=10&theme=dracula)
 
 
 <p align="center">
