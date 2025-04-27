@@ -1,11 +1,31 @@
 ### Hi I'm qaiu👋
-[💒 Home page](https://qaiu.top?_blank)  
-[💌 Blog](https://blog.qaiu.top)  
-[🚀 zhihu](https://www.zhihu.com/people/QAIU)  
-[📺 bilibili](https://space.bilibili.com/16908280)  
-[🎀 weibo](https://weibo.com/u/2719056577)  
+[💒 Home page](https://qaiu.top?_blank)  [💌 Blog](https://blog.qaiu.top)  [🚀 zhihu](https://www.zhihu.com/people/QAIU)  [📺 bilibili](https://space.bilibili.com/16908280) 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=qaiu&show_icons=true&theme=dracula) ![QAIU's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qaiu&layout=compact&hide_border=true&langs_count=10&theme=dracula)
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=qaiu&show_icons=true&rank_icon=percentile&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=qaiu&show_icons=true&rank_icon=percentile"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=qaiu&show_icons=true&theme=dracula"/>
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=qaiu&layout=compact&langs_count=8&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=qaiu&layout=compact&langs_count=8"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qaiu&layout=compact&hide_border=true&langs_count=10&theme=dracula" />
+</picture>
+
 
 
 <p align="center">
