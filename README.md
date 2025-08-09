@@ -26,12 +26,6 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qaiu&layout=compact&hide_border=true&langs_count=10&theme=dracula" />
 </picture>
 
-
-
-<p align="center">
-	<img src="https://profile-counter.glitch.me/qaiu/count.svg" />
-</p>
-
 <!--
 **qaiu/qaiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
