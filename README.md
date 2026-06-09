@@ -1,21 +1,23 @@
-### Hi I'm qaiu👋
-[💒 Home page](https://qaiu.top?_blank)  [💌 Blog](https://blog.qaiu.top) 
+<div align="center">
 
-![Metrics](https://metrics.lecoq.io/qaiu?template=classic&config.timezone=Asia%2FShanghai)
+# Hi, I'm qaiu 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=qaiu)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://qaiu.top" target="_blank">💒 Home page</a> &nbsp;·&nbsp;
+<a href="https://blog.qaiu.top" target="_blank">💌 Blog</a>
 
-<!--
-**qaiu/qaiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<!-- Metrics -->
+<img src="https://metrics.lecoq.io/qaiu?template=classic&config.timezone=Asia%2FShanghai" alt="GitHub Metrics" width="80%" />
 
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/><br/>
+
+<!-- 贡献值 / 连续提交（独立公共实例 demolab，无需自部署） -->
+<img src="https://streak-stats.demolab.com?user=qaiu&theme=vue&hide_border=true&background=ffffff&ring=4078c0&fire=4078c0&currStreakLabel=4078c0&sideLabels=4078c0&dates=333333" alt="GitHub Streak" />
+
+<br/><br/>
+
+<!-- Trophy（自部署 fork 实例，浅色 flat 主题） -->
+<img src="https://github-profile-trophy-fork-two.vercel.app/?username=qaiu&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophy" />
+
+</div>
