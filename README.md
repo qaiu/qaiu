@@ -12,8 +12,8 @@
 
 <br/><br/>
 
-<!-- 贡献值 / 连续提交（独立公共实例 demolab，无需自部署） -->
-<img src="https://streak-stats.demolab.com?user=qaiu&theme=vue&hide_border=true&background=ffffff&ring=4078c0&fire=4078c0&currStreakLabel=4078c0&sideLabels=4078c0&dates=333333" alt="GitHub Streak" />
+<!-- 贡献值 / 连续提交（独立公共实例 demolab，无需自部署） 
+<img src="https://streak-stats.demolab.com?user=qaiu&theme=vue&hide_border=true&background=ffffff&ring=4078c0&fire=4078c0&currStreakLabel=4078c0&sideLabels=4078c0&dates=333333" alt="GitHub Streak" />-->
 
 <br/><br/>
 
