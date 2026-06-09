@@ -3,6 +3,8 @@
 
 ![Metrics](https://metrics.lecoq.io/qaiu?template=classic&config.timezone=Asia%2FShanghai)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=qaiu)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **qaiu/qaiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
