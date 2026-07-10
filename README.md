@@ -7,9 +7,8 @@
 
 <br/>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Backend+Architect;Open+Source+Developer;Creator+of+NFD;Java+%7C+Vert.x+%7C+Cloud+Native" />
-<!-- Snake Contribution -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/qaiu/qaiu/output/github-contribution-grid-snake.svg" width="90%" />
+  <img src="https://raw.githubusercontent.com/qaiu/qaiu/gh-pages/github-contribution-grid-snake.svg" width="90%" />
 </p>
 
 
